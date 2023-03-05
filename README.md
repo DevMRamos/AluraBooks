@@ -18,4 +18,4 @@ Você pode visualizar online através do site Vercel, basta clicar no link abaix
 
 <a href="https://alura-books-devmramos.vercel.app" target="_blank">Veja o protótipo aqui</a>
 
-
+![img para readme projeto AluraBooks Michel Ramos](https://user-images.githubusercontent.com/124885387/222939960-fc3d0dc0-18b3-432d-a9ec-5bbdc026f49c.png)
